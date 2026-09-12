@@ -1,0 +1,14 @@
+{
+  "name": "Zapienz",
+  "short_name": "Zapienz",
+  "description": "Las ideas de un libro completo, en español, para leer o escuchar.",
+  "lang": "es-MX",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0B1F47",
+  "theme_color": "#0B1F47",
+  "icons": [
+    { "src": "assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "assets/img/icon-180.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

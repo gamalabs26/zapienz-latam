@@ -14,7 +14,14 @@ Todo lo numérico se consultó contra la base de producción de Zapienz
   citadas literales y rotuladas como fragmento.
 
 No hay teléfono, domicilio ni horario porque Zapienz no los tiene: es un
-producto digital. Tampoco hay precios en el sitio; se remite a la ficha de
+producto digital.
+
+**No hay botón de Android.** El enlace de Google Play que usa el sitio oficial
+(`com.zapienz.app`) devuelve 404: la app no está publicada ahí. Se probaron
+también `com.zapienz`, `mx.zapienz.app` y `com.gamalabs.zapienz`, los cuatro
+404, y la búsqueda de Play no la lista. Prometer Android sería mandar a la
+gente a una página que no existe. Cuando se publique, se reponen los dos CTA
+y la línea de dispositivos. Tampoco hay precios en el sitio; se remite a la ficha de
 cada tienda, que es donde está el precio vigente.
 
 ⚠️ Regla de marca: **no se usa la palabra «resumen»**. Zapienz vende Zaps,
